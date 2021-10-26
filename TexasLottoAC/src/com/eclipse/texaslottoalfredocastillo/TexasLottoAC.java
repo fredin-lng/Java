@@ -10,7 +10,7 @@ import java.util.Scanner;
 /// Price depends on how many numbers are matched.
 
 public class TexasLottoAC {
-    public static void main(String[] args){
+    public static void main(String args[]){
 
         // create instance of scanner class
         Scanner input = new Scanner(System.in);
